@@ -5,32 +5,38 @@
     "samples": [
     
       {
+        "icono": "https://i.ibb.co/rMJwn6P/eventos-1.png",
         "name": "TIGO PARAGUAY 1",
         "uri": "https://ssh101.bozztv.com/ssh101/todosusan/playlist.m3u8"
 
       },
       {
+        "icono": "https://i.ibb.co/qnNxRw8/eventos-2.png",
         "name": "TIGO PARAGUAY 2",
         "uri": "https://ssh101.bozztv.com/ssh101/todosloven/playlist.m3u8"
         
      },
       {
+        "icono": "https://i.ibb.co/hsVjX4M/eventos-3.png",
         "name": "TIGO PARAGUAY 3",
         "uri": "https://live-ak.vimeocdn.com/exp=1699830722~acl=%2F9d2220c0-029d-4040-ac63-f23cd4e79bb8%2F%2A~hmac=359ab27c83bf701ddd9154a4d04cbf4aaa22ebd852baa6a1c7bf8c8e4380c17e/9d2220c0-029d-4040-ac63-f23cd4e79bb8/hls.m3u8?min_seconds=30"
         
       },
       {
+        "icono": "https://i.ibb.co/qFqcTHD/eventos-4.png",
         "name": "TIGO PARAGUAY 4",
         "uri": "https://qiniu.prdv3.dlivecdn.com/dlive-pmzrnipajh/1699825835/src/live.m3u8"
         
       },
       
       {
+        "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg",
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8"
         
       },
       {
+        "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg",
         "name": "TIGO GUATEMALA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
        
@@ -41,20 +47,24 @@
     "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026 🏆",
     "samples": [
       {
+        "icono": "https://i.ibb.co/3zbGZ3r/hei1.jpg",
         "name": "HEI PY",
         "uri": "https://testphp07.alwaysdata.net/hei/index.m3u8"
       },
       {
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU",
         "name": "UNIVERSO",
         "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8"
       }, 
       {
+        "icono": "https://i.ibb.co/3NFfkVd/gen-tv.jpg",
         "name": "GEN TV PY",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49eb924ba998ca7fbbaee30dcef1ecb4&key%5B%5D=6e131b04b2e87598fb588ac205673698"
       },
       {
+        "icono": "https://i.ibb.co/Jv81xHf/tyc-sports1.jpg",
         "name": "TYC SPORT",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
@@ -62,18 +72,14 @@
       },
 
       {
+        "icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg",
         "name": "TV PUBLICA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662"
       },
       {
-        "name": "DIRECTV",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731"
-      },
-      {
+        "icono": "https://i.ibb.co/bPKWXGc/america.jpg",
         "name": "AMERICA TV",
         "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
         "drm_scheme": "clearkey",
