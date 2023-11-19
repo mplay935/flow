@@ -5,25 +5,25 @@
     "samples": [
     
       {
-        "icono": "https://i.ibb.co/rMJwn6P/eventos-1.png",
+        "icono": "https://i.ibb.co/93shdHB/deportes-los-craki.jpg",
         "name": "TIGO PARAGUAY 1",
         "uri": "https://ssh101.bozztv.com/ssh101/todosusan/playlist.m3u8"
 
       },
       {
-        "icono": "https://i.ibb.co/qnNxRw8/eventos-2.png",
+        "icono": "https://i.ibb.co/mG5BMrR/deportes1-los-craki.jpg",
         "name": "TIGO PARAGUAY 2",
         "uri": "https://ssh101.bozztv.com/ssh101/todosloven/playlist.m3u8"
         
      },
       {
-        "icono": "https://i.ibb.co/hsVjX4M/eventos-3.png",
+        "icono": "https://i.ibb.co/xj68VNj/deportes2-los-craki.png",
         "name": "TIGO PARAGUAY 3",
         "uri": "https://live-ak.vimeocdn.com/exp=1699830722~acl=%2F9d2220c0-029d-4040-ac63-f23cd4e79bb8%2F%2A~hmac=359ab27c83bf701ddd9154a4d04cbf4aaa22ebd852baa6a1c7bf8c8e4380c17e/9d2220c0-029d-4040-ac63-f23cd4e79bb8/hls.m3u8?min_seconds=30"
         
       },
       {
-        "icono": "https://i.ibb.co/qFqcTHD/eventos-4.png",
+        "icono": "https://i.ibb.co/vZyMgYj/deportes4-los-craki.png",
         "name": "TIGO PARAGUAY 4",
         "uri": "https://qiniu.prdv3.dlivecdn.com/dlive-pmzrnipajh/1699825835/src/live.m3u8"
         
