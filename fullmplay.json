@@ -158,223 +158,271 @@
     "samples": [
 
       {
+        "icono": "https://i.ibb.co/k8zyVYR/telefuturo-hd.jpg",
         "name": "TELEFUTURO",
         "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A_wl/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
       },
       {
+        "icono": "https://i.ibb.co/k8zyVYR/telefuturo-hd.jpg",
         "name": "TELEFUTURO 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8"
         
       },
       {
+        "icono": "httphttps://i.ibb.co/djwj06J/la-tele-hd.jpg",
         "name": "LA TELE",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A_wl/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
       },
       {
+        "icono": "https://i.ibb.co/djwj06J/la-tele-hd.jpg",
         "name": "LA TELE 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(la_tele)/index.m3u8"       
       },
       {
+        "icono": "https://i.ibb.co/C2bcDGb/snt-hd.jpg",
         "name": "SNT",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A_wl/SNT_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693"
       },
       {
+        "icono": "https://i.ibb.co/C2bcDGb/snt-hd.jpg",
         "name": "SNT 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/Fs0FfS7/c9n-hd.jpg",
         "name": "C9N",
         "uri": "https://edge-live12-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_wl/C9N_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca"
       },
       {
+        "icono": "https://i.ibb.co/Fs0FfS7/c9n-hd.jpg",
         "name": "C9N 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/3NFfkVd/gen-tv.jpg",
         "name": "GEN TV",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A_wl/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
       },
       {
+        "icono": "https://i.ibb.co/3NFfkVd/gen-tv.jpg",
         "name": "GEN TV 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN_TV)/index.m3u8"
          },
       {
+        "icono": "https://i.ibb.co/c85KMBX/canal-13.jpg",
         "name": "TRECE PY",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A_wl/RPC_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
+        "icono": "https://i.ibb.co/7y6bVrF/unicanal.jpg",
         "name": "UNICANAL",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A_wl/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
+        "icono": "https://i.ibb.co/k8zyVYR/telefuturo-hd.jpg",
         "name": "CENTRAL TV",
         "uri": "https://ssh101.bozztv.com/ssh101/centraltv/playlist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/T03Yzx6/Capital-Tv.jpg",
         "name": "CAPITAL TV",
         "uri": "https://ssh101.bozztv.com/ssh101/capitaltv/playlist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/k8zyVYR/telefuturo-hd.jpg",
         "name": "ABC TV",
         "uri": "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8"
 
       },
       {
+        "icono": "https://i.ibb.co/sg5vrbR/npy.jpg",
         "name": "NPY PY",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A_wl/NOTICIAS_PY_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0"
       },
       {
+        "icono": "https://i.ibb.co/642Ks2L/paravision.jpg",
         "name": "PARAVISION",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A_wl/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91"
       },
       {
+        "icono": "https://i.ibb.co/jyHmcSL/sur-tv.jpg",
         "name": "SUR TV FHD",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8"
 
       },
       {
+        "icono": "https://i.ibb.co/jyHmcSL/sur-tv.jpg",
         "name": "SUR TV HD",
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577"
       },
       {
+        "icono": "https://i.ibb.co/c6Gf2k1/canal-pro.jpg",
         "name": "CANAL PRO",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A_wl/Canal_PRO.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7"
       },
       {
+        "icono": "https://i.ibb.co/D8ph8Kb/5-dias.jpg",
         "name": "5 DIAS PY",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A_wl/5_Dias_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839"
       },
       {
+        "icono": "https://i.ibb.co/FJ5w2Gz/tv-py.jpg",
         "name": "PY TV",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A_wl/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "MEGA TV",
         "uri": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "NEXT TV",
         "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/3zbGZ3r/hei1.jpg",
         "name": "HEI PY 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "TV CÁMARA",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/cvKjZbf/anduti1.jpg",
         "name": "ÑANDUTI TV",
         "uri": "https://tvdatta.com:3839/live/nandutitvlive.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "BRUNO MASI TV",
         "uri": "https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "UNION TV",
         "uri": "https://copacogen.desdeparaguay.net/800tv/800tv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/CQZmd8m/EDUCANAL.jpg",
         "name": "EDUCANAL",
         "uri": "https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "TV MAX",
         "uri": "https://tvmaxsa.com.py/hls/stream.m3u8?ver=1.2"
       },
       {
+        "icono": "https://i.ibb.co/Wtzp7wR/rcc.jpg",
         "name": "RCC TV",
         "uri": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "MAXIMA TV",
         "uri": "https://maxima-tv.ddns.net/hls/stream.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/5GTHFmJ/mi-tv.jpg",
         "name": "MI TV",
         "uri": "https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/wppGT2F/mas-tv1.jpg",
         "name": "MAS TV",
         "uri": "https://59ce1298bfb98.streamlock.net/mastv/mastv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/qrZbLMJ/MOTOR-SUR-MEDIA.jpg",
         "name": "MOTOR SUR TV",
         "uri": "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/dKptwWX/somos-del-este.jpg",
         "name": "SOMOS DEL ESTE",
         "uri": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "ALMAYA TV",
         "uri": "https://59ce1298bfb98.streamlock.net/almayatv/almayatv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/V303BbR/GO-TV.jpg",
         "name": "GO TV",
         "uri": "https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/89K37sp/SUCESO-TV.jpg",
         "name": "SUCESO TV",
         "uri": "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "ASPEN TV",
         "uri": "https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/XVMhGFb/venus1.png",
         "name": "VENUS TV",
         "uri": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/gtQ0qC9/tv-aire.jpg",
         "name": "TVS TV",
         "uri": "https://rds3.desdeparaguay.net/tvs/tvs/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "REGIONAL TV",
         "uri": "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "AIRE TV",
         "uri": "https://59ce1298bfb98.streamlock.net/tvaire/tvaire/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "CANINDE TV",
         "uri": "https://59ce1298bfb98.streamlock.net/canindetv/canindetv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "CANAL 8 TV",
         "uri": "https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
         "name": "OCCIDENTAL TV",
         "uri": "https://59ce1298bfb98.streamlock.net/occidentaltv/occidentaltv/chunklist.m3u8"
       }
